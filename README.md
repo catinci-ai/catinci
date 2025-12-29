@@ -16,11 +16,6 @@ When a child asks a question, CatInci:
 - show_me
   Image and video discovery for parent follow-up
 
-## MVP Scope
-- Web-first delivery (mobile-friendly)
-- One feature shipped per week
-- Parent feedback loop after each release
-
 ## Tech Stack (high level)
 - ElevenLabs voice agents
 - Custom client tools
