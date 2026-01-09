@@ -282,4 +282,5 @@ After the tool returns:
 <img width="1150" height="927" alt="show_me_settings_1" src="https://github.com/user-attachments/assets/d944dc46-c740-42f7-b0da-28c7d5eff3d8" />
 <img width="1154" height="930" alt="showme_settings_2" src="https://github.com/user-attachments/assets/7601b78a-ca58-4e6c-b782-54edd7d265c5" />
 <img width="1145" height="941" alt="showme_settings_3" src="https://github.com/user-attachments/assets/41325ae6-6caa-4ca2-a1d0-ec0fea75f8f8" />
-<img width="1148" height="931" alt="showme_settings_4" src="https://github.com/user-attachments/assets/8ef1ccf4-6724-4988-b0a1-c1248b7ca477" />
+<img width="1148" height="931" alt="showme_settings_4" src="https://github.com/user-attachments/assets/8ef1ccf4-6724<img width="1148" height="931" alt="showme_settings_4" src="https://github.com/user-attachments/assets/2194e6ae-1152-456d-a123-bc762b0687a5" />
+-4988-b0a1-c1248b7ca477" />
